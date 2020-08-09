@@ -1,0 +1,6 @@
+.pos{background-color: rgba(0,0,0,0.7);position: absolute;top: 26%;left: 25%;width: 600px;}
+footer{background-color:#101010;font-size:14px;font-weight: bold;}
+.bg_light{background-color:#E2E2E2 ;}
+.disabled{pointer-events: none; cursor: default;padding-bottom: 20px;}
+@media (max-width:768px){.pos{top: 32%;left:5%;width: 90%;}h2{font-size: 12px;}}
+@media (min-width: 768px){.navbar-expand-md .navbar-nav {   margin-left: auto;}}
